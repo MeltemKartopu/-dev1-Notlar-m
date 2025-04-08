@@ -7,30 +7,30 @@ Bu repo, **Yapay Zeka ve Teknoloji Akademisi** kapsamında gerçekleştirdiğim 
 
 - 📁 **Modül 1: Veri Biliminin Temelleri**
   - Veri analizi, temel Python uygulamaları, veri temizleme ve görselleştirme
-  - 16 saat ⭐️ 4.7
+  
 
 - 📁 **Modül 2: Python ile Başlarken**
   - Python temelleri, veri yapıları, temel programlama
-  - 24 saat ⭐️ 4.8
+
 
 - 📁 **Modül 3: Rakamların Ötesine Geçin: Verileri İçgörülere Dönüştürün**
   - Veri görselleştirme, veri hikayeleştirme, analizden içgörüye giden yol
-  - 27 saat ⭐️ 4.7
+ 
 
 - 📁 **Modül 4: İstatistiğin Gücü**
   - Temel istatistik, olasılık teorisi, veriyi yorumlama
-  - 31 saat ⭐️ 4.8
+
 
 - 📁 **Modül 5: Regresyon Analizi: Karmaşık Veri İlişkilerini Basitleştirin**
   - Regresyon teknikleri, çoklu değişken analizi
-  - 28 saat ⭐️ 4.7
+  
 
 - 📁 **Modül 6: Makine Öğreniminin Temelleri**
   - Makine öğrenmesi algoritmaları, model değerlendirme
-  - 34 saat ⭐️ 4.8
+
 
 - 📁 **Modül 7: Bitirme Projesi: Google İleri Veri Analitiği Final Projesi**
-  - Gerçek dünya veri setiyle kapsamlı proje
+
 
 ## Hedeflerim
 
